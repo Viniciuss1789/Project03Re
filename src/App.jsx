@@ -1,5 +1,5 @@
 import React from 'react';
-import ListaDeTarefas from './assets/components/ListaDeTarefas';
+import ListaDeTarefas from './components/ListaDeTarefas';
 
 function App() {
   return (
